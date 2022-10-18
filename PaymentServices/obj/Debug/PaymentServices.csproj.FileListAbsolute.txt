@@ -1,0 +1,17 @@
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices/bin/Debug/LearnSolidAndTesting.dll
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices/bin/Debug/LearnSolidAndTesting.pdb
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices/obj/Debug/PaymentServices.csprojAssemblyReference.cache
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices/obj/Debug/PaymentServices.csproj.CoreCompileInputs.cache
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices/obj/Debug/LearnSolidAndTesting.dll
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices/obj/Debug/LearnSolidAndTesting.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices/bin/Debug/LearnSolidAndTesting.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices/bin/Debug/LearnSolidAndTesting.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices/obj/Debug/PaymentServices.csproj.CoreCompileInputs.cache
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices/obj/Debug/LearnSolidAndTesting.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices/obj/Debug/LearnSolidAndTesting.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices/bin/Debug/LearnSolidAndTesting.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices/bin/Debug/LearnSolidAndTesting.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices/obj/Debug/PaymentServices.csproj.AssemblyReference.cache
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices/obj/Debug/PaymentServices.csproj.CoreCompileInputs.cache
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices/obj/Debug/LearnSolidAndTesting.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices/obj/Debug/LearnSolidAndTesting.pdb

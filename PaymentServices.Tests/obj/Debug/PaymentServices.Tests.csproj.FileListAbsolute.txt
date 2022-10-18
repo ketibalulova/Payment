@@ -1,0 +1,72 @@
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices.Tests/bin/Debug/Yoox.Tests.dll
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices.Tests/bin/Debug/Yoox.Tests.pdb
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csprojAssemblyReference.cache
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CoreCompileInputs.cache
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices.Tests/obj/Debug/Yoox.Tests.dll
+C:/Code/PaymentServiceTest/PaymentServices/PaymentServices.Tests/obj/Debug/Yoox.Tests.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/NUnit3.TestAdapter.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/NUnit3.TestAdapter.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/nunit.engine.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/nunit.engine.api.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/nunit.engine.core.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/testcentric.engine.metadata.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/Yoox.Tests.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/Yoox.Tests.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/Castle.Core.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/FluentAssertions.Core.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/FluentAssertions.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/LearnSolidAndTesting.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/Moq.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/nunit.framework.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/LearnSolidAndTesting.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/Castle.Core.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/Moq.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/FluentAssertions.Core.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/FluentAssertions.Core.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/FluentAssertions.pdb
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/FluentAssertions.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/bin/Debug/nunit.framework.xml
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.AssemblyReference.cache
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CoreCompileInputs.cache
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CopyComplete
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/obj/Debug/Yoox.Tests.dll
+/Users/keti.balulova/Projects/PaymentServices/c-sharp-payment-test-master/PaymentServices.Tests/obj/Debug/Yoox.Tests.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/NUnit3.TestAdapter.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/NUnit3.TestAdapter.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/nunit.engine.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/nunit.engine.api.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/nunit.engine.core.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/testcentric.engine.metadata.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/Yoox.Tests.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/Yoox.Tests.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/Castle.Core.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/FluentAssertions.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/LearnSolidAndTesting.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/Moq.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/nunit.framework.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.IO.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Net.Http.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Runtime.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/LearnSolidAndTesting.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/Castle.Core.xml
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/Moq.xml
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/FluentAssertions.pdb
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/FluentAssertions.xml
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/bin/Debug/nunit.framework.xml
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.AssemblyReference.cache
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CoreCompileInputs.cache
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CopyComplete
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/obj/Debug/Yoox.Tests.dll
+/Users/keti.balulova/Desktop/Payment Services/PaymentServices.Tests/obj/Debug/Yoox.Tests.pdb
